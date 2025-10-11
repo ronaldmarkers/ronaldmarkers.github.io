@@ -1,7 +1,7 @@
-The code for website of the Mathematical Society. The .css and .js are provided by bootstrap along with fonts from the Google API
+The code for website of my WebsitePortfolio. The .css and .js are provided by bootstrap along with fonts from the Google API
 
 Index.html - The homepage of the website containing information about contact and about
 
-Events.html - The Events section with information on upcoming events and a calendar
+About.html - Contains my resume and information about my courses
 
-For any recommendations, comments, bugs message me at raul.marq@yahoo.com# WebsitePortfolio
+For any recommendations, comments, bugs message me at raul.marq@yahoo.com
